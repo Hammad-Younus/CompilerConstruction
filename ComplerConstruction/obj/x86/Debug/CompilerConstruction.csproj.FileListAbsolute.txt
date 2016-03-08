@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ComplerConstruction\ComplerConstruction\bin\Debug\ComplerConstruction.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ComplerConstruction\ComplerConstruction\bin\Debug\ComplerConstruction.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ComplerConstruction\ComplerConstruction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ComplerConstruction\ComplerConstruction\obj\x86\Debug\ComplerConstruction.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ComplerConstruction\ComplerConstruction\obj\x86\Debug\ComplerConstruction.pdb
+D:\CC_Work\CompilerConstruction\ComplerConstruction\obj\x86\Debug\ComplerConstruction.exe
+D:\CC_Work\CompilerConstruction\ComplerConstruction\obj\x86\Debug\ComplerConstruction.pdb
+D:\CC_Work\CompilerConstruction\ComplerConstruction\bin\Debug\ComplerConstruction.exe
+D:\CC_Work\CompilerConstruction\ComplerConstruction\bin\Debug\ComplerConstruction.pdb
+D:\CC_Work\CompilerConstruction\ComplerConstruction\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompilerConstruction", "ComplerConstruction\CompilerConstruction.csproj", "{581BBDB4-A1F2-4C29-BF32-AA9414C79630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581BBDB4-A1F2-4C29-BF32-AA9414C79630}.Debug|x86.ActiveCfg = Debug|x86
+		{581BBDB4-A1F2-4C29-BF32-AA9414C79630}.Debug|x86.Build.0 = Debug|x86
+		{581BBDB4-A1F2-4C29-BF32-AA9414C79630}.Release|x86.ActiveCfg = Release|x86
+		{581BBDB4-A1F2-4C29-BF32-AA9414C79630}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
