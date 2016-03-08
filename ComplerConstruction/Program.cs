@@ -10,7 +10,7 @@ namespace CompilerConstruction
         static void Main(string[] args)
         {
             LexicalPhase lp = new LexicalPhase();
-            lp.Write();
+            lp.ReadFile();
             Console.ReadKey();
         }
     }
